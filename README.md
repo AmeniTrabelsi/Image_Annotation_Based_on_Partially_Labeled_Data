@@ -1,5 +1,5 @@
 # Image_Annotation_Based_on_Partially_Labeled_Data
-Internship Report in the Multimedia Research Lab at University of Louisville
+Internship Report in the Multimedia Research Lab at University of Louisville (6 months)
 
 ## Keywords:
 Image annotation , Image Segmentation, Feature Extraction, Multiple Instance Learning, Bag of Features.
