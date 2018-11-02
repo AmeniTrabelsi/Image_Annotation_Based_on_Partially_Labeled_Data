@@ -14,10 +14,10 @@ groundtruth data is only image-level labeled. The image annotation requires imag
 segmentation, feature extraction and Multiple Instance Learning Classification.
 
 The process for image Annotation Algorithm is summarized in this flowchart!
-<img src="https://github.com/AmeniTrabelsi/Image_Annotation_Based_on_Partially_Labeled_Data/blob/master/PFE_img2.JPG" scale="0.2">
+<img src="https://github.com/AmeniTrabelsi/Image_Annotation_Based_on_Partially_Labeled_Data/blob/master/PFE_img2.JPG" width="600" height="200">
 
 
 Some results of the Image annotation algorithm:
 
-<img src="https://github.com/AmeniTrabelsi/Image_Annotation_Based_on_Partially_Labeled_Data/blob/master/PFE_img1.JPG" width="500" height="250">
+<img src="https://github.com/AmeniTrabelsi/Image_Annotation_Based_on_Partially_Labeled_Data/blob/master/PFE_img1.JPG" width="600" height="200">
 
